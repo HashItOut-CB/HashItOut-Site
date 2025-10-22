@@ -74,10 +74,10 @@ I've created a complete, professional website for your Hash it Out app. Here's w
 1. **Add Images**
    - Read `images/README.md` for complete list
    - Priority images needed:
-     - `logo.png` (40x40px)
-     - `app-store-badge.png`
+     - `logo.jpg` (40x40px)
+     - `app-store-badge.svg`
      - `google-play-badge.png`
-     - `hero-mockup.png`
+     - `hero-mockup.jpg`
    - All other images can be added gradually
 
 2. **Set Up Email Addresses**

@@ -6,7 +6,7 @@ This document outlines all image assets needed for the website to function prope
 
 ### 1. Logo and Branding
 
-#### logo.png
+#### logo.jpg
 - **Size**: 40x40px (or higher resolution for retina displays: 80x80px)
 - **Format**: PNG with transparency
 - **Usage**: Navigation bar logo
@@ -16,7 +16,7 @@ This document outlines all image assets needed for the website to function prope
 
 ### 2. App Store Badges
 
-#### app-store-badge.png
+#### app-store-badge.svg
 - **Size**: 120x40px (standard badge size)
 - **Format**: PNG
 - **Usage**: Hero section and download section
@@ -34,7 +34,7 @@ This document outlines all image assets needed for the website to function prope
 
 ### 3. Hero Section
 
-#### hero-mockup.png
+#### hero-mockup.jpg
 - **Size**: 800x1000px (or higher)
 - **Format**: PNG
 - **Usage**: Main hero section showcasing the app
@@ -53,27 +53,27 @@ All feature icons should be:
 - **Format**: PNG with transparency or SVG
 - **Style**: Consistent, minimal, monochrome (will be colored via CSS filter)
 
-#### icon-turn-based.png
+#### icon-turn-based.svg
 - **Description**: Icon representing turn-based debates
 - **Suggestions**: Clock with arrows, alternating arrows, timer icon
 
-#### icon-ai.png
+#### icon-ai.svg
 - **Description**: AI/machine learning icon
 - **Suggestions**: Brain with circuit, robot head, neural network pattern
 
-#### icon-evidence.png
+#### icon-evidence.svg
 - **Description**: Evidence-based discussion icon
 - **Suggestions**: Document with checkmark, magnifying glass over document, citation symbol
 
-#### icon-voting.png
+#### icon-voting.svg
 - **Description**: Voting/rating system icon
 - **Suggestions**: Thumbs up/down, star rating, slider scale
 
-#### icon-community.png
+#### icon-community.svg
 - **Description**: Community engagement icon
 - **Suggestions**: Group of people, connected users, forum/discussion icon
 
-#### icon-notifications.png
+#### icon-notifications.svg
 - **Description**: Push notifications icon
 - **Suggestions**: Bell, notification badge, alert symbol
 
@@ -201,7 +201,7 @@ Before adding images to the website:
 3. **Naming convention**:
    - Use lowercase
    - Use hyphens for spaces
-   - Be descriptive: `hero-mockup.png` not `image1.png`
+   - Be descriptive: `hero-mockup.jpg` not `image1.png`
 
 4. **Target file sizes**:
    - Icons: < 50KB each
@@ -235,8 +235,8 @@ Once you have the images:
 
 1. Save all images to the `images/` directory
 2. Ensure filenames match exactly (case-sensitive):
-   - `logo.png`
-   - `app-store-badge.png`
+   - `logo.jpg`
+   - `app-store-badge.svg`
    - `google-play-badge.png`
    - etc.
 
@@ -251,10 +251,10 @@ Once you have the images:
 If you need to add images gradually, prioritize:
 
 1. **High Priority** (website won't look right without these):
-   - logo.png
-   - app-store-badge.png
+   - logo.jpg
+   - app-store-badge.svg
    - google-play-badge.png
-   - hero-mockup.png
+   - hero-mockup.jpg
 
 2. **Medium Priority** (nice to have):
    - Feature icons (icon-*.png)

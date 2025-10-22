@@ -35,22 +35,22 @@ HashItOut-Site/
 The website currently has placeholders for the following images. Replace these with actual assets:
 
 ### Logo and Branding
-- `logo.png` (40x40px) - App logo for navigation
+- `logo.jpg` (40x40px) - App logo for navigation
 
 ### App Store Badges
-- `app-store-badge.png` - Apple App Store download badge
+- `app-store-badge.svg` - Apple App Store download badge
 - `google-play-badge.png` - Google Play Store download badge
 
 ### Hero Section
-- `hero-mockup.png` - Main hero image showing app interface
+- `hero-mockup.jpg` - Main hero image showing app interface
 
 ### Feature Icons (60x60px recommended)
-- `icon-turn-based.png` - Turn-based debates icon
-- `icon-ai.png` - AI analysis icon
-- `icon-evidence.png` - Evidence-based icon
-- `icon-voting.png` - Voting system icon
-- `icon-community.png` - Community icon
-- `icon-notifications.png` - Notifications icon
+- `icon-turn-based.svg` - Turn-based debates icon
+- `icon-ai.svg` - AI analysis icon
+- `icon-evidence.svg` - Evidence-based icon
+- `icon-voting.svg` - Voting system icon
+- `icon-community.svg` - Community icon
+- `icon-notifications.svg` - Notifications icon
 
 ### How It Works Steps
 - `step-1.png` - Create/join debate screenshot
