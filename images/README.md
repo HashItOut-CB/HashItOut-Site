@@ -2,6 +2,17 @@
 
 This document outlines all image assets needed for the website to function properly.
 
+## Website Pages
+
+The Hash it Out website consists of the following pages:
+- `index.html` - Main landing page
+- `privacy.html` - Privacy Policy
+- `terms.html` - Terms of Service
+- `support.html` - Support/Help Center
+- `delete-account.html` - Account Deletion Instructions (required for Google Play/App Store compliance)
+
+---
+
 ## Image Specifications
 
 ### 1. Logo and Branding
@@ -274,4 +285,26 @@ If you need help with image creation or have questions:
 
 ---
 
-**Last Updated**: October 22, 2025
+## App Store Compliance
+
+### Delete Account Page
+
+The `delete-account.html` page is **required for Google Play and Apple App Store compliance**. Both app stores require apps to provide:
+
+1. A clear way for users to request account deletion
+2. Information about what data gets deleted
+3. Timeline for deletion
+4. Contact information for deletion requests
+
+**URL for App Store Submission:**
+```
+https://hashitout.net/delete-account.html
+```
+
+This URL should be entered in:
+- **Google Play Console:** App content > Privacy policy > Data safety > Account deletion
+- **Apple App Store Connect:** App Privacy > Data deletion
+
+---
+
+**Last Updated**: October 23, 2025
