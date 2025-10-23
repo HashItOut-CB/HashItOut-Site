@@ -227,7 +227,7 @@ a:hover {
 }
 
 .nav-links a {
-  color: var(--text-secondary);
+  color: black;
   font-weight: 500;
   transition: color var(--transition-base);
 }
@@ -563,7 +563,7 @@ a:hover {
    =================================== */
 .download {
   padding: var(--spacing-3xl) 0;
-  background: #131824;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   text-align: center;
 }
